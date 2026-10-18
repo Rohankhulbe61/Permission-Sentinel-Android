@@ -1,0 +1,101 @@
+{
+  "com.google.android.apps.youtube.music": {
+    "package_name": "com.google.android.apps.youtube.music",
+    "app_name": "YouTube Music",
+    "developer": "Unknown Developer",
+    "play_category": "Music &Amp; Audio",
+    "description": "Change up your routine with the new Discover Mix, a personalized playlist with songs you’ll love based on what you listen to the most. With a new set of songs each Wednesday, there is always more to explore.",
+    "has_listing": true,
+    "metadata_source": "Google Play Store",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music",
+    "timestamp": "2026-10-15T18:51:32.144890+00:00"
+  },
+  "com.google.android.youtube": {
+    "package_name": "com.google.android.youtube",
+    "app_name": "YouTube",
+    "developer": "Unknown Developer",
+    "play_category": "Video Players &Amp; Editors",
+    "description": "For new features, look for in-product education &amp; notifications sharing the feature and how to use it!",
+    "has_listing": true,
+    "metadata_source": "Google Play Store",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+    "timestamp": "2026-10-15T18:56:46.001271+00:00"
+  },
+  "com.android.camera2": {
+    "package_name": "com.android.camera2",
+    "app_name": "Camera",
+    "developer": "Local Device App",
+    "play_category": "General",
+    "description": "",
+    "has_listing": false,
+    "metadata_source": "Device Scan (No Play Store Listing)",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.android.camera2",
+    "timestamp": "2026-10-15T19:05:07.687700+00:00"
+  },
+  "com.google.android.calendar": {
+    "package_name": "com.google.android.calendar",
+    "app_name": "Calendar",
+    "developer": "Unknown Developer",
+    "play_category": "Productivity",
+    "description": "• Bug fixes and performance improvements.",
+    "has_listing": true,
+    "metadata_source": "Google Play Store",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+    "timestamp": "2026-10-15T21:16:11.662545+00:00"
+  },
+  "com.android.systemui.accessibility.accessibilitymenu": {
+    "package_name": "com.android.systemui.accessibility.accessibilitymenu",
+    "app_name": "Accessibility Menu",
+    "developer": "Local Device App",
+    "play_category": "General",
+    "description": "",
+    "has_listing": false,
+    "metadata_source": "Device Scan (No Play Store Listing)",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.android.systemui.accessibility.accessibilitymenu",
+    "timestamp": "2026-10-15T21:26:28.277710+00:00"
+  },
+  "com.utility.flashlight": {
+    "package_name": "com.utility.flashlight",
+    "app_name": "Flashlight Calc",
+    "developer": "Local Device App",
+    "play_category": "General",
+    "description": "",
+    "has_listing": false,
+    "metadata_source": "Device Scan (No Play Store Listing)",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.utility.flashlight",
+    "timestamp": "2026-10-15T21:49:04.442168+00:00"
+  },
+  "com.google.android.contacts": {
+    "package_name": "com.google.android.contacts",
+    "app_name": "Contacts",
+    "developer": "Unknown Developer",
+    "play_category": "Communication",
+    "description": "• It’s now easier to select an existing contact to add details to from the contact editor",
+    "has_listing": true,
+    "metadata_source": "Google Play Store",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.google.android.contacts",
+    "timestamp": "2026-10-15T23:05:19.888045+00:00"
+  },
+  "com.android.egg": {
+    "package_name": "com.android.egg",
+    "app_name": "Android Easter Egg",
+    "developer": "Local Device App",
+    "play_category": "General",
+    "description": "",
+    "has_listing": false,
+    "metadata_source": "Device Scan (No Play Store Listing)",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.android.egg",
+    "timestamp": "2026-10-15T23:24:13.280168+00:00"
+  },
+  "com.google.android.projection.gearhead": {
+    "package_name": "com.google.android.projection.gearhead",
+    "app_name": "Android Auto",
+    "developer": "Unknown Developer",
+    "play_category": "Auto &Amp; Vehicles",
+    "description": "Control maps, media and messaging, with Gemini while you drive",
+    "has_listing": true,
+    "metadata_source": "Google Play Store",
+    "listing_url": "https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead",
+    "timestamp": "2026-10-16T03:57:06.596391+00:00"
+  }
+}
