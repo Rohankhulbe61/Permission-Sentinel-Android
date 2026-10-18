@@ -1,0 +1,12 @@
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Android Studio local settings
+**/.idea/workspace.xml
