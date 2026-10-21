@@ -1,7 +1,7 @@
 """
 Permission Sentinel - FastAPI Application Entry Point
 """
-
+# new commit for contribution
 import logging
 from contextlib import asynccontextmanager
 
